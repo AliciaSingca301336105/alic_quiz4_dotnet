@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35919.96 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "alic_quiz4_webapp", "alic_quiz4_webapp\alic_quiz4_webapp.csproj", "{9BAC8196-8F5D-4837-B6BA-E1264C0A24C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BAC8196-8F5D-4837-B6BA-E1264C0A24C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BAC8196-8F5D-4837-B6BA-E1264C0A24C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BAC8196-8F5D-4837-B6BA-E1264C0A24C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BAC8196-8F5D-4837-B6BA-E1264C0A24C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CED979D-90CD-41D9-86F3-86959A69C64E}
+	EndGlobalSection
+EndGlobal
